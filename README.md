@@ -10,13 +10,13 @@ Frontend: Built with React.<br>
 User-friendly interface to interact with the API.<br>
 Axios used for making API requests with token-based authentication.<br>
 <br>
-####Technologies Used<br>
+#### Technologies Used<br>
 Backend:<br>
 Node.js<br>
-####Express<br>
+#### Express<br>
 JWT (JSON Web Token)<br>
 Redis (for token management)<br>
 <br>
-####Frontend:<br>
+#### Frontend:<br>
 React<br>
 Axios<br>
