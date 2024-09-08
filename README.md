@@ -2,21 +2,21 @@
 This is a simple full-stack web application that implements basic CRUD (Create, Read, Update, Delete) operations along with authentication (login and signup) functionality.
 
 #### Features
-Backend: Built with Node.js and Express.<br>
-JWT-based authentication: Secure login and signup system using JSON Web Tokens (JWT).<br>
-CRUD operations for managing user data.<br>
-Integration with Redis for token storage.<br>
-Frontend: Built with React.<br>
-User-friendly interface to interact with the API.<br>
-Axios used for making API requests with token-based authentication.<br>
+1.Backend: Built with Node.js and Express.<br>
+2.JWT-based authentication: Secure login and signup system using JSON Web Tokens (JWT).<br>
+3.CRUD operations for managing user data.<br>
+4.Integration with Redis for token storage.<br>
+5.Frontend: Built with React.<br>
+6.User-friendly interface to interact with the API.<br>
+7.Axios used for making API requests with token-based authentication.<br>
 <br>
 #### Technologies Used<br>
 #### Backend:<br>
-Node.js<br>
-Express<br>
-JWT (JSON Web Token)<br>
-Redis (for token management)<br>
+1.Node.js<br>
+2.Express<br>
+3.JWT (JSON Web Token)<br>
+4.Redis (for token management)<br>
 <br>
 #### Frontend:<br>
-React<br>
-Axios<br>
+1.React<br>
+2.Axios<br>
