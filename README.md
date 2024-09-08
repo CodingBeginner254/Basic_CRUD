@@ -11,9 +11,9 @@ User-friendly interface to interact with the API.<br>
 Axios used for making API requests with token-based authentication.<br>
 <br>
 #### Technologies Used<br>
-Backend:<br>
+#### Backend:<br>
 Node.js<br>
-#### Express<br>
+Express<br>
 JWT (JSON Web Token)<br>
 Redis (for token management)<br>
 <br>
